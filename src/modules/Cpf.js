@@ -51,5 +51,3 @@ export default class Cpf {
         return novePrimeirosDigitos + digito1 + digito2
     }
 }
-
-console.log('cheguei aqui')
