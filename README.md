@@ -1,6 +1,6 @@
 # Gerador de CPFs
 
-Projeto em Node.js para profundar mais os conhecimentos.
+Projeto utilizando módulos do ES6 para profundar mais os conhecimentos.
 
 Atualize a página para gerar um novo CPF váldo!
 
